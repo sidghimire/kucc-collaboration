@@ -1,4 +1,0 @@
-first
-second
-third
-Feature 2 is good
